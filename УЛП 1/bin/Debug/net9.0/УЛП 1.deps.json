@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "УЛП 1/1.0.0": {
+        "runtime": {
+          "УЛП 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "УЛП 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

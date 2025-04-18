@@ -1,0 +1,14 @@
+F:\проги\c#\УЛП\УЛП 1\bin\Debug\net9.0\УЛП 1.exe
+F:\проги\c#\УЛП\УЛП 1\bin\Debug\net9.0\УЛП 1.deps.json
+F:\проги\c#\УЛП\УЛП 1\bin\Debug\net9.0\УЛП 1.runtimeconfig.json
+F:\проги\c#\УЛП\УЛП 1\bin\Debug\net9.0\УЛП 1.dll
+F:\проги\c#\УЛП\УЛП 1\bin\Debug\net9.0\УЛП 1.pdb
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.AssemblyInfoInputs.cache
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.AssemblyInfo.cs
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.csproj.CoreCompileInputs.cache
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.dll
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\refint\УЛП 1.dll
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.pdb
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\УЛП 1.genruntimeconfig.cache
+F:\проги\c#\УЛП\УЛП 1\obj\Debug\net9.0\ref\УЛП 1.dll
